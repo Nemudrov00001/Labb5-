@@ -1,0 +1,232 @@
+.box {
+   position: sticky; 
+   width: 400px;
+   height: 400px;
+}
+
+#elem1 {
+width: 100px;
+height: 100px;
+border: 1px solid red;
+position: absolute;
+}
+
+#elem2 {
+    position: absolute;
+    top: 120px;
+    left: 120px;
+    width: 100px;
+height: 100px;
+border: 1px solid blue;
+}
+
+#elem3 {
+position: absolute;
+top:  240px;
+left: 240px;
+width: 100px;
+height: 100px;
+border: 1px solid green;
+}
+
+.box1 {
+    position: sticky; 
+   width: 300px;
+   height: 200px; 
+}
+
+#elem4 {
+width: 100px;
+height: 100px;
+border: 1px solid red;
+position: absolute;
+}
+
+#elem5 {
+    position: absolute;
+    left: 120px;
+    width: 100px;
+height: 100px;
+border: 1px solid blue;
+}
+
+#elem6 {
+position: absolute;
+left: 240px;
+width: 100px;
+height: 100px;
+border: 1px solid green;
+}
+
+.box2 {
+   position: sticky; 
+   width: 300px;
+   height: 300px;
+}
+#elem7 {
+width: 100px;
+height: 100px;
+border: 1px solid red;
+position: absolute;
+
+}
+
+#elem8 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    width: 100px;
+height: 100px;
+border: 1px solid blue;
+
+}
+
+#elem9 {
+position: absolute;
+top:  120px;
+left: 120px;
+width: 100px;
+height: 100px;
+border: 1px solid green;
+
+}
+
+.box3 {
+   position: sticky; 
+   width: 300px;
+   height: 300px;
+}
+#elem10 {
+width: 100px;
+height: 100px;
+border: 1px solid red;
+position: absolute;
+background:  red;
+}
+
+#elem11 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    width: 100px;
+height: 100px;
+border: 1px solid blue;
+background: blue;
+}
+
+#elem12 {
+position: absolute;
+top:  120px;
+left: 120px;
+width: 100px;
+height: 100px;
+border: 1px solid green;
+background: green;
+}
+
+
+.box4 {
+   position: sticky; 
+   width: 300px;
+   height: 300px;
+}
+#elem13 {
+width: 100px;
+height: 100px;
+border: 1px solid red;
+position: absolute;
+background:  red;
+}
+
+#elem14 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    width: 100px;
+height: 100px;
+border: 1px solid blue;
+background: blue;
+z-index: 1;
+}
+
+#elem15 {
+position: absolute;
+top:  120px;
+left: 120px;
+width: 100px;
+height: 100px;
+border: 1px solid green;
+background: green;
+}
+
+.box5 {
+   position: sticky; 
+   width: 300px;
+   height: 300px;
+}
+#elem16 {
+width: 100px;
+height: 100px;
+border: 1px solid red;
+position: absolute;
+background:  red;
+z-index: 1;
+}
+
+#elem17 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    width: 100px;
+height: 100px;
+border: 1px solid blue;
+background: blue;
+
+}
+
+#elem18 {
+position: absolute;
+top:  120px;
+left: 120px;
+width: 100px;
+height: 100px;
+border: 1px solid green;
+background: green;
+z-index: 2;
+}
+
+.box6 {
+   position: sticky; 
+   width: 300px;
+   height: 300px;
+}
+#elem19 {
+width: 100px;
+height: 100px;
+border: 1px solid red;
+position: absolute;
+background:  red;
+z-index: 3;
+}
+
+#elem20 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    width: 100px;
+height: 100px;
+border: 1px solid blue;
+background: blue;
+z-index: 2;
+}
+
+#elem21 {
+position: absolute;
+top:  120px;
+left: 120px;
+width: 100px;
+height: 100px;
+border: 1px solid green;
+background: green;
+z-index: 1;
+}
